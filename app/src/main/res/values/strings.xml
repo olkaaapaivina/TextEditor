@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">textedit</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Sett</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_openmode">pref_open-mode</string>
+    <array name="text_style">
+        <item>@font/qqqqq</item>
+        <item>@font/wwerew</item>
+    </array>
+</resources>
